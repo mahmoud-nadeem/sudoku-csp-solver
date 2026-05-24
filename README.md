@@ -2,12 +2,6 @@
 
 A **Sudoku solver** built with Constraint Satisfaction Problem (CSP) techniques, featuring **Arc Consistency (AC-3)** and **Backtracking Search with MRV heuristic** — wrapped in a modern dark-mode GUI.
 
-> 📌 **Course:** Artificial Intelligence — Assignment 3  
-> 🏫 **Institution:** Alexandria National University  
-> 👤 **Author:** Mahmoud Hazem Ali Nadeem
-
----
-
 ## 📸 Features
 
 - ✅ Solves any valid 9×9 Sudoku puzzle
